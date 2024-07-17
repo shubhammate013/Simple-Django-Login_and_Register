@@ -3,8 +3,7 @@ name = "simple-django-login-and-register"
 version = "4.0"
 description = "An example of Django project with basic user functionality."
 readme = "README.md"
-authors = ["Yehor Smoliakov <yehors+gh@ukr.net>"]
-repository = "https://github.com/egorsmkv/simple-django-login-and-register"
+repository = "https://github.com/shubhammate013/Simple-Django-Login_and_Register.git"
 license = "BSD-3-Clause"
 classifiers = [
     "Intended Audience :: Developers",

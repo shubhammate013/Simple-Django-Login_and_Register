@@ -37,7 +37,7 @@ An example of Django project with basic user functionality.
 
 ```bash
 git clone https://github.com/shubhammate013/Simple-Django-Login_and_Register.git
-cd simple-django-login-and-register
+cd Simple-Django-Login_and_Register
 ```
 
 ### Install dependencies & activate virtualenv
@@ -45,9 +45,9 @@ cd simple-django-login-and-register
 #### Create a virtualenv using conda (optional)
 
 ```bash
-conda create -n simple-django-login-and-register python=3.11
+conda create -n Simple-Django-Login_and_Register python=3.11
 
-conda activate simple-django-login-and-register
+conda activate Simple-Django-Login_and_Register
 ```
 
 #### Install dependencies

@@ -6,7 +6,7 @@ An example of Django project with basic user functionality.
 
 | Log In | Create an account | Authorized page |
 | -------|--------------|-----------------|
-| <img src="source/screenshots/login.png" width="200"> | <img src="source/screenshots/create_an_account.png" width="200"> | <img src="source/screenshots/authorized_page.png" width="200"> |
+| <img src="source/screenshots/login.png" width="200"> | <img src="source/screenshots/create_an_account.png" width="200"> | <img src="source/screenshots/authorized_page.png " width="200"> |
 
 | Password reset | Set new password | Password change |
 | ---------------|------------------|-----------------|

@@ -21,14 +21,20 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+]
 
-    # Vendor apps
+EXTERNAL_APPS = [
+    
+     # Vendor apps
     'bootstrap4',
 
     # Application apps
     'main',
     'accounts',
 ]
+
+INSTALLED_APPS = EXTERNAL_APPS + INSTALLED_APPS
+
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
